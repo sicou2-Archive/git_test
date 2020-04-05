@@ -1,0 +1,1 @@
+This is sicou2's first git project for The Odin Project!
